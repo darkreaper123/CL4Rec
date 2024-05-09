@@ -2,7 +2,7 @@
 
 The official PyTorch implementation of the ACIIDS 2024 paper "Continual Learning based on Task Masking for Multi-Domain Recommendation" (proceedings)
 
-(The name of proposed model is UFO-SPACE aka CL4Rec)
+(Our proposed model name is UFO-SPACE aka CL4Rec)
 
 Preprocess Movielens 100K dataset:
 
